@@ -1,5 +1,5 @@
 # cli-aqi App
-
+😷 🏭 😶‍🌫️
 A simple Bash + Node.js app to check the AQI (Air Quality Index) of any city.
 
 ## Table of Contents
