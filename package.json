@@ -1,0 +1,14 @@
+{
+  "name": "cli-aqi",
+  "version": "1.0.0",
+  "description": "A simple Bash + Node.js app to check AQI of any city.",
+  "main": "weather.sh",
+  "scripts": {
+    "start": "bash weather.sh"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "author": "Yash Sagar Santani",
+  "license": "MIT"
+}
