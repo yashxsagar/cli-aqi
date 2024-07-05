@@ -81,7 +81,7 @@ touch .env
 Then, add the following line to the .env file:
 DEFAULT_CITY=<YOUR_DESIRED_CITY>
 
-### Changing the deefault city
+### Changing the default city
 
 cd cli-aqi
 
